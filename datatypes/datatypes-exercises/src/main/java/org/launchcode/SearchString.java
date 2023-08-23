@@ -22,6 +22,5 @@ public class SearchString {
         }
         String newSentence = firstSentence.replace(term, "");
         System.out.println(newSentence);
-
     }
 }
